@@ -1,3 +1,4 @@
 count = 10
 
-while count <= 1 && count != 
+while count <= 1 do 
+  
